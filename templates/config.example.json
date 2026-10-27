@@ -1,0 +1,9 @@
+{
+  "input_dir": "C:/path/to/input",
+  "output_dir": "C:/path/to/output",
+  "docx_path": "C:/path/to/input/论文.docx",
+  "report_path": "C:/path/to/input/AIGC检测报告.md",
+  "chapter_allowlist": ["摘要", "相关技术", "总结与展望"],
+  "chapter_blocklist": [],
+  "dry_run": false
+}

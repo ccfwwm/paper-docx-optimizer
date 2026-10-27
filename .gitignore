@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 技能运行产物（原始论文与中间结果不入库）
+input/
+output/
+out/
+analysis/
+final/
+*.docx
+*.doc
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# 本地配置
+.env
+config.local.json
